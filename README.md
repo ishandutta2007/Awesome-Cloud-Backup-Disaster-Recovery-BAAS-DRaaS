@@ -76,9 +76,9 @@ The global **Backup as a Service (BaaS)** market is projected to reach **$11.4B�
 ## 🔓 Open-Source GitHub Projects
 
 > [!TIP]
-> All open-source repositories are arranged strictly in **descending order by GitHub star count**. Each star badge links directly to the respective repository's stargazers page.
+> All open-source repositories are arranged strictly in **descending order by GitHub Stars_Count**. Each Stars_Badge links directly to the respective repository's stargazers page.
 
-| Project | Star Badge | Description | Primary Use Case |
+| Project | Stars_Badge | Description | Primary Use Case |
 |---|---|---|---|
 | 📦 **[Rclone](https://github.com/rclone/rclone)** | [![Stars](https://img.shields.io/github/stars/rclone/rclone?style=social&color=white)](https://github.com/rclone/rclone/stargazers) | "rsync for cloud storage" command-line utility supporting over 70 cloud object and file storage providers with end-to-end encryption, multi-threaded sync, and bandwidth management. | Cloud data synchronization, offsite backup sync & disaster recovery mirroring |
 | 🗄️ **[Restic](https://github.com/restic/restic)** | [![Stars](https://img.shields.io/github/stars/restic/restic?style=social&color=white)](https://github.com/restic/restic/stargazers) | High-performance, secure, deduplicated backup program written in Go. Supports AES-256 encryption, content-defined slicing, and backends including AWS S3, GCS, Azure Blob, SFTP, and MinIO. | Self-hosted BaaS engine, encrypted cloud snapshot archiving |
@@ -133,7 +133,7 @@ We welcome community contributions, architectural improvements, and new tool ben
 
 1. 🍴 **Fork** this repository.
 2. 🌿 Create a new branch: `git checkout -b feature/add-new-tool`
-3. 📝 Update `README.md` following our standardized table formatting (include company valuation/revenue or star badge, starting price points, and factual descriptions).
+3. 📝 Update `README.md` following our standardized table formatting (include company valuation/revenue or Stars_Badge, starting price points, and factual descriptions).
 4. 📬 Submit a concise **Pull Request** with source citations.
 
 ---
